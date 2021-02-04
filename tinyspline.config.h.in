@@ -1,0 +1,13 @@
+/*
+ * \file tinyspline.config.h
+ * \brief Header to prepare your application for the TinySpline API.
+ */
+
+#ifndef TINYSPLINE_API_H_CONFIG
+#define TINYSPLINE_API_H_CONFIG
+
+
+#pragma comment(lib, "@TINYSPLINE_SOURCE_DIR@/build/lib/tinysplinecxx.lib")
+
+
+#endif // TINYSPLINE_API_H_CONFIG
